@@ -1,0 +1,11 @@
+Osijek Parking Zone - published zone data
+
+Files: osijek_parking_segments_v3.geojson, osijek_parking_lots.geojson, osijek_parking_data.json
+
+Street and car-park geometry is derived from OpenStreetMap data,
+(c) OpenStreetMap contributors, available under the Open Database License (ODbL) 1.0:
+https://opendatacommons.org/licenses/odbl/1-0/  -  https://www.openstreetmap.org/copyright
+
+These files are a derivative database and are made available under the same ODbL 1.0 terms.
+Zone assignments, prices and hours are taken from public information by GPP d.o.o. Osijek
+(https://www.gpp-osijek.com/); they are not official GPP data and may be out of date.

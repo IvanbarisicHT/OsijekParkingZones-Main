@@ -1,0 +1,8542 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "source": "OpenStreetMap (Overpass API) amenity=parking within Grad Osijek, queried 2026-09-30",
+  "license": "© OpenStreetMap contributors, ODbL",
+  "included": "every amenity=parking (public, private, street-side)"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-n474698132",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6478975,
+     45.5627073
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-n554860250",
+    "name": "",
+    "kind": "underground",
+    "capacity": 300,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6757897,
+     45.5528121
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-n908876456",
+    "name": "",
+    "kind": "underground",
+    "capacity": 300,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6782655,
+     45.5445896
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-n1340224560",
+    "name": "Avenue Mall",
+    "kind": "underground",
+    "capacity": 1200,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6579018,
+     45.546738
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-n1602462918",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6539423,
+     45.5633291
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-n9505653240",
+    "name": "",
+    "kind": "surface",
+    "capacity": 6,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6942693,
+     45.5519517
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w26159785",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6960033,
+     45.5531369
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w26744471",
+    "name": "Rupa",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6789863,
+     45.5623084
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w28611131",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6541398,
+     45.5614105
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w30117979",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6800013,
+     45.5577232
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w30117980",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6806248,
+     45.557155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w31875721",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7122328,
+     45.5557484
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w31918344",
+    "name": "",
+    "kind": "surface",
+    "capacity": 44,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6831721,
+     45.5531944
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w31923750",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7191202,
+     45.5545922
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w35610390",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": "Fakultet primijenjene matematike i informatike"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6852476,
+     45.5585229
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w35680949",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6653909,
+     45.5478038
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w35842119",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6920885,
+     45.5444866
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w35941229",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6673742,
+     45.5487981
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w35941270",
+    "name": "",
+    "kind": "surface",
+    "capacity": 200,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6676846,
+     45.5492992
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w35947651",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7142023,
+     45.5527587
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w38066699",
+    "name": "",
+    "kind": "surface",
+    "capacity": 20,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6808034,
+     45.561873
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w38081746",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6815078,
+     45.5584829
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w38089109",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6721096,
+     45.5374914
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w38089112",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6724614,
+     45.5383511
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w38480047",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6751553,
+     45.5616244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w38480798",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6793717,
+     45.5597278
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w38481186",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6731559,
+     45.5392129
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w38482542",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6764486,
+     45.5579151
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w38482548",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6769221,
+     45.5579805
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w38483495",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6776571,
+     45.5600195
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w38483540",
+    "name": "",
+    "kind": "surface",
+    "capacity": 23,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6775321,
+     45.5594508
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w40036204",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6792035,
+     45.5439318
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w40242567",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7252629,
+     45.5465791
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w40429505",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6359241,
+     45.5594406
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w40429506",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6381609,
+     45.5613353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w40587245",
+    "name": "",
+    "kind": "surface",
+    "capacity": 30,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6927971,
+     45.5490983
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w40818749",
+    "name": "Lidl",
+    "kind": "surface",
+    "capacity": 150,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7317506,
+     45.5526384
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w40953470",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.632304,
+     45.562386
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w40953600",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6902915,
+     45.543767
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w42032622",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7414027,
+     45.546914
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w42089474",
+    "name": "",
+    "kind": "surface",
+    "capacity": 500,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6389901,
+     45.5681356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w42252630",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7031089,
+     45.5542022
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w42325502",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.694977,
+     45.5544793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w42879404",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6724832,
+     45.5324625
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w43591064",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6753805,
+     45.5594493
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w49865456",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6505744,
+     45.5398743
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w58709952",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6561671,
+     45.5635161
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w73396208",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6961572,
+     45.5624466
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w74002353",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6798616,
+     45.5565768
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w75394333",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6765045,
+     45.5571174
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w75394335",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6795574,
+     45.5587082
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w75482347",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.673657,
+     45.5523571
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w75483732",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6747855,
+     45.5541123
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w75640202",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.64609,
+     45.5407978
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w76035978",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.675468,
+     45.5636965
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w76035979",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6727456,
+     45.5644
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w76035983",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6760185,
+     45.5633564
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w76035988",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6737892,
+     45.5640954
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w76087281",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6862007,
+     45.5621633
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w76842834",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6867969,
+     45.5611738
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w77021268",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6958028,
+     45.556517
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w77069510",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7077421,
+     45.5585173
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w77228499",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6928227,
+     45.5498958
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w77228513",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6923898,
+     45.5505846
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w77378961",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6407066,
+     45.5376367
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w77378968",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.642326,
+     45.5386684
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w77379555",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6696053,
+     45.5493811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w77380593",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6570866,
+     45.5345335
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w77411493",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.700363,
+     45.5590652
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w77414424",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6447043,
+     45.5379286
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w77696352",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6546578,
+     45.5484065
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w81287341",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6657476,
+     45.5625223
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w81287345",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6673676,
+     45.5632003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w81287349",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6679462,
+     45.5626273
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w82138836",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6668687,
+     45.5659919
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w82138839",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6668933,
+     45.5660774
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w83804087",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.666476,
+     45.5605673
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w83918449",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6565796,
+     45.5629804
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w83918451",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6565554,
+     45.5627817
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w95066332",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6728818,
+     45.5635473
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w95066333",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6715383,
+     45.564681
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w95072703",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7356739,
+     45.5404208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w95631482",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6773719,
+     45.555457
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w96699705",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6651582,
+     45.5605932
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w112172576",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6888217,
+     45.5497839
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w112172577",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.688583,
+     45.5497068
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w112172579",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6883469,
+     45.5496488
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w112172580",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6881185,
+     45.5495931
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w112172581",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6878461,
+     45.5495026
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w114511565",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6560411,
+     45.5432175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w116906583",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7353547,
+     45.5516203
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w117040416",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7250552,
+     45.543582
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w119943660",
+    "name": "",
+    "kind": "surface",
+    "capacity": 1000,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.638375,
+     45.5554627
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w132663033",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6480822,
+     45.5653934
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w132663034",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6481074,
+     45.564841
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w135296119",
+    "name": "",
+    "kind": "surface",
+    "capacity": 100,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6371234,
+     45.5656277
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161162640",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7077954,
+     45.5551869
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161162641",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7059226,
+     45.5555126
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161162652",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7060039,
+     45.5572217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161162654",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7061938,
+     45.5576323
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161166836",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7074901,
+     45.5579965
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161171991",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7118247,
+     45.5567401
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161171993",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7108356,
+     45.5553187
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161191676",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.718675,
+     45.5431999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161191683",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7192485,
+     45.5429266
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161191685",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.719263,
+     45.5427279
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161279981",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7182957,
+     45.5543132
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161279989",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7167459,
+     45.5547785
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161279993",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7216765,
+     45.5541673
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161279994",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7053425,
+     45.5525255
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161281126",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7171608,
+     45.5542694
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161285267",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7191854,
+     45.553917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161298000",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7143759,
+     45.5558941
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161298005",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7142744,
+     45.5557294
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161639277",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.715704,
+     45.555126
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161639625",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7155553,
+     45.5546191
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w161859984",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7179627,
+     45.5554296
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w162447583",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7097165,
+     45.5455353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w162447589",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7090875,
+     45.5465169
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w162447603",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7096367,
+     45.5437383
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w162447610",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7103385,
+     45.5446671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w164933852",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7419268,
+     45.5443583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w168243433",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7038551,
+     45.5507436
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w171544881",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6753551,
+     45.5532502
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w174873829",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7561993,
+     45.541533
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w174873831",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7563096,
+     45.5418729
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w176491821",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7105521,
+     45.5504337
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w176657217",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7056044,
+     45.5498546
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w176887446",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6904848,
+     45.5477623
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w177043124",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7185178,
+     45.5576124
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w177143875",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7149774,
+     45.5546991
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w177189554",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7113618,
+     45.5429626
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w207156270",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6767658,
+     45.5434904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w209507725",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6961202,
+     45.5439516
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w266632578",
+    "name": "",
+    "kind": "street",
+    "capacity": 15,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6766541,
+     45.5584954
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w266632580",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6789859,
+     45.5584097
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w545282178",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": "Tržnica d.o.o. Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6851246,
+     45.5575823
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w545282182",
+    "name": "Sudski prolaz",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.684685,
+     45.5592283
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w545282185",
+    "name": "Trg Ljudevita Gaja – istok",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6841128,
+     45.5587585
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w545346561",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": "Hotel Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6796889,
+     45.5619439
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555002786",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7182136,
+     45.5559888
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555012324",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6909912,
+     45.5587869
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555163434",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6932526,
+     45.5571959
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555206685",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "permissive",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7222465,
+     45.5570425
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555251446",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7289537,
+     45.5536197
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555262036",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6683224,
+     45.5658858
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555265631",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6835174,
+     45.5574743
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555277784",
+    "name": "",
+    "kind": "street",
+    "capacity": 10,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6823728,
+     45.561825
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555277785",
+    "name": "",
+    "kind": "street",
+    "capacity": 6,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6822134,
+     45.5619946
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555277786",
+    "name": "",
+    "kind": "street",
+    "capacity": 5,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6822347,
+     45.5617456
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555277787",
+    "name": "",
+    "kind": "street",
+    "capacity": 54,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6838778,
+     45.5618121
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555305221",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7184582,
+     45.5608339
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555309195",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7051411,
+     45.5560368
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555309197",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7051186,
+     45.5579678
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555309199",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7048695,
+     45.5564587
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555309200",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7047848,
+     45.5555456
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555309201",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7045615,
+     45.555109
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555508354",
+    "name": "",
+    "kind": "underground",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6789655,
+     45.5574084
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555575501",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6855265,
+     45.5531495
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555575502",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6859909,
+     45.5533653
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555577840",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "permissive",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6861667,
+     45.54803
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w555996254",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6630689,
+     45.5568542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559853617",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6999978,
+     45.5601502
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559864637",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7208233,
+     45.54356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559864641",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.722141,
+     45.5442642
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559864642",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7209074,
+     45.5447598
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559864643",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.720083,
+     45.5442254
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559871499",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7218727,
+     45.5454326
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559871501",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7220399,
+     45.5454295
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559871503",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7224213,
+     45.5449614
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559879830",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7189682,
+     45.5448564
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559885797",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7217399,
+     45.5445246
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559885798",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7217584,
+     45.5444354
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559885804",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7134511,
+     45.5425921
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559885805",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7135951,
+     45.542578
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w559885807",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7133153,
+     45.543761
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w560465069",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6978949,
+     45.5534239
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w560826515",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7169127,
+     45.5357935
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w561630389",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7038536,
+     45.5496541
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w562603882",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6573135,
+     45.5464807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w562603883",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6572,
+     45.5480217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w563694675",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": "Restoran Bijelo-Plavi"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6950715,
+     45.548747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w570328546",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6982915,
+     45.5656987
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w584874824",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7086982,
+     45.5436782
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w589501076",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6614122,
+     45.5603698
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w590585346",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6962158,
+     45.551743
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w592162866",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "no",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6933254,
+     45.5434932
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w592439141",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7082207,
+     45.5541209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w592439142",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7064094,
+     45.5541149
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w592439143",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7057874,
+     45.5539857
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w592439144",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7063651,
+     45.55401
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w593880737",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6372078,
+     45.560013
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597869419",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.684579,
+     45.5606338
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597869420",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6837172,
+     45.5607837
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597869422",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6830519,
+     45.5608898
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597869423",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6851332,
+     45.5605263
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597878439",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6856592,
+     45.5597509
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597878441",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6857814,
+     45.5596586
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597878442",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6857194,
+     45.5590587
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597878444",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6858075,
+     45.5581462
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597878446",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.685938,
+     45.5582088
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597883547",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6974382,
+     45.5566786
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597889713",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7021378,
+     45.5578043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597889721",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7033318,
+     45.5594242
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w597892409",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7182761,
+     45.5548655
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w598030698",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6334288,
+     45.5642756
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w598030701",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6330129,
+     45.5637641
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w598030705",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.634653,
+     45.5645933
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w601364039",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6647191,
+     45.5568168
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w604034927",
+    "name": "",
+    "kind": "surface",
+    "capacity": 34,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6857326,
+     45.5534452
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w604034928",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6867079,
+     45.5535412
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w604057318",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6489253,
+     45.561622
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w607953092",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7075299,
+     45.5533936
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w620621029",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6652299,
+     45.5601441
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w623565866",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6664848,
+     45.5584212
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w623565878",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.666834,
+     45.5589294
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w626978742",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.681637,
+     45.5469186
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w626978743",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6819723,
+     45.5464283
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w626978745",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6819511,
+     45.5462921
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w631107595",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6932119,
+     45.5510365
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w631629073",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6781171,
+     45.546323
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w646450706",
+    "name": "",
+    "kind": "street",
+    "capacity": 13,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6822571,
+     45.5613603
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w646450707",
+    "name": "",
+    "kind": "street",
+    "capacity": 8,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6824134,
+     45.5611916
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w646450708",
+    "name": "",
+    "kind": "street",
+    "capacity": 9,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6823924,
+     45.5614558
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w646452472",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.676319,
+     45.5626881
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w646452474",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.674321,
+     45.563319
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w654808550",
+    "name": "",
+    "kind": "surface",
+    "capacity": 100,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6541166,
+     45.5632754
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w654808553",
+    "name": "",
+    "kind": "surface",
+    "capacity": 120,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6531333,
+     45.5559209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w657875580",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6802898,
+     45.5495627
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w661723046",
+    "name": "",
+    "kind": "surface",
+    "capacity": 13,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6318323,
+     45.5327664
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w661723047",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6296377,
+     45.5316143
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w661723049",
+    "name": "",
+    "kind": "surface",
+    "capacity": 9,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6292505,
+     45.5328401
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w666759970",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7072756,
+     45.5525404
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w667323577",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6984066,
+     45.5543852
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w667323578",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6980001,
+     45.5543596
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w667323580",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.69766,
+     45.5546356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w669182374",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6946384,
+     45.554058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w669182376",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6943342,
+     45.5540692
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w669182378",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6940811,
+     45.5540249
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w669182380",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6938258,
+     45.5539998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w669407607",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6953157,
+     45.553894
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w669414985",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6948316,
+     45.5492429
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w669552749",
+    "name": "",
+    "kind": "street",
+    "capacity": 13,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6761576,
+     45.5591668
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w669552750",
+    "name": "",
+    "kind": "street",
+    "capacity": 10,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.676311,
+     45.5599442
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w671600082",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "no",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6784379,
+     45.55361
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w671600083",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "no",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6792742,
+     45.5536421
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w671600084",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6753867,
+     45.5538706
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w671600089",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.701226,
+     45.5517624
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w671600090",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7014414,
+     45.552373
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w671687333",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7227744,
+     45.5597544
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w671687335",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7225136,
+     45.5599814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w671687339",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7224404,
+     45.5600747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w671687341",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7221654,
+     45.5602675
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w673213346",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6729432,
+     45.5375661
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w676517272",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7006569,
+     45.5532494
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w676526822",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7009362,
+     45.5525667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w676526827",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7005519,
+     45.5527329
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w679778310",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6364958,
+     45.565351
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w679778313",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6377201,
+     45.5646495
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w679845294",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.672948,
+     45.5630249
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w679845295",
+    "name": "",
+    "kind": "street",
+    "capacity": 30,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6751946,
+     45.5622683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w693053219",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7090398,
+     45.553361
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w696109865",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6951519,
+     45.5477168
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w699403855",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6945321,
+     45.5503623
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w699928649",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6672766,
+     45.5642147
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w699928654",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6683966,
+     45.5638614
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w700174673",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6356582,
+     45.5350243
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w706475321",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7386115,
+     45.5476559
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w713894758",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6772863,
+     45.5540213
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w714409571",
+    "name": "",
+    "kind": "underground",
+    "capacity": null,
+    "access": "",
+    "operator": "Autobusni kolodvor Osijek d. o.o."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6789605,
+     45.553213
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w714531285",
+    "name": "",
+    "kind": "surface",
+    "capacity": 2,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7068965,
+     45.5564988
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w714531304",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7054101,
+     45.5556481
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w722412875",
+    "name": "",
+    "kind": "surface",
+    "capacity": 14,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7336801,
+     45.5563581
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w722412876",
+    "name": "",
+    "kind": "surface",
+    "capacity": 4,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7328899,
+     45.5565461
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w722412877",
+    "name": "",
+    "kind": "surface",
+    "capacity": 10,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7343357,
+     45.5562633
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w722412879",
+    "name": "",
+    "kind": "surface",
+    "capacity": 10,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7343914,
+     45.5566533
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w724150359",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7177168,
+     45.5446826
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w727321508",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7213081,
+     45.5532968
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w727321509",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7209589,
+     45.5531934
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w727568723",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7211194,
+     45.5546159
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w727568727",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7249244,
+     45.5539975
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w727568735",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7287971,
+     45.5535599
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w727568743",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7308054,
+     45.5526842
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w730322592",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7280535,
+     45.5444671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w730870235",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7353867,
+     45.5410122
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w730870238",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7360783,
+     45.5408117
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w730882082",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7434254,
+     45.5373694
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w742337265",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7019794,
+     45.5529229
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w742337273",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7038595,
+     45.5530457
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w758918943",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6913123,
+     45.5493759
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w758918944",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6913512,
+     45.5492081
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w758918945",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6913872,
+     45.549052
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w758918946",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6914147,
+     45.548884
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w758918948",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6915776,
+     45.5493049
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w758918952",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6918325,
+     45.5494329
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w865584225",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6844889,
+     45.5597927
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w917103419",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7197917,
+     45.5557912
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w917103420",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7199147,
+     45.5558646
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w917437979",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7235818,
+     45.5550912
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w917437989",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7224455,
+     45.5560282
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w917437990",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7195855,
+     45.5589257
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w917437998",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7205882,
+     45.5581348
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947918735",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7011632,
+     45.5506079
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947918736",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7006393,
+     45.5501165
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947918737",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7009397,
+     45.550262
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947918738",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7013673,
+     45.5507421
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947918739",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7015021,
+     45.5505782
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947918740",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7003064,
+     45.5507178
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947918741",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7005969,
+     45.5512371
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947918742",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7008803,
+     45.5514986
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947925638",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6985886,
+     45.551445
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947925639",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6991614,
+     45.5514941
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947925640",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6996662,
+     45.5511563
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947925642",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6995412,
+     45.5504393
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947925643",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6988832,
+     45.5500032
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947925644",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6982892,
+     45.5502281
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947925645",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6988205,
+     45.5498882
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w947925646",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6995485,
+     45.5498265
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1033285315",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6910702,
+     45.5622471
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1047076219",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6909531,
+     45.5494331
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1047076220",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6910448,
+     45.5489301
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1061895513",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6651996,
+     45.5664976
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1061895530",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6985386,
+     45.5598484
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1069013608",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6810108,
+     45.5474419
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1094513302",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6845305,
+     45.5533588
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1094513304",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6920074,
+     45.5510396
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1101580695",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.635098,
+     45.564477
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1101580696",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6352524,
+     45.564591
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1101580697",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6351272,
+     45.5648157
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1101580698",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6358191,
+     45.5648197
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1123757735",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7050664,
+     45.5515024
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1123757739",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7047677,
+     45.5518663
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1123757740",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7046731,
+     45.552238
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1123757741",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7045781,
+     45.5526397
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1123757742",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7045513,
+     45.5528942
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1167979952",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7620563,
+     45.5407668
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1169675704",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7302829,
+     45.547215
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1184507458",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "no",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6925856,
+     45.5448052
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1190377722",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7020331,
+     45.5596336
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1190377723",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7017327,
+     45.5592432
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1217856068",
+    "name": "",
+    "kind": "multi-storey",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6388419,
+     45.554722
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1219023784",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7189981,
+     45.5478204
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1219023785",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7190742,
+     45.5476178
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1231554895",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6450139,
+     45.5452116
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1234034523",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6931384,
+     45.553748
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1242292435",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6952023,
+     45.5565011
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1245866814",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6496907,
+     45.5407146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1245866815",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6487809,
+     45.5404643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1253622007",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6744934,
+     45.5570172
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1253622025",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6733962,
+     45.563492
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1254130023",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6909287,
+     45.5466649
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1257598297",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6613482,
+     45.5599462
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1257598303",
+    "name": "",
+    "kind": "surface",
+    "capacity": 2,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6618606,
+     45.5612534
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1260694787",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6485709,
+     45.5566633
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1260694793",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6492037,
+     45.5571482
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1260694794",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6500298,
+     45.5565559
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1261849032",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6538864,
+     45.5623705
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1262566657",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6721242,
+     45.5266719
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1273528764",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6960562,
+     45.5543689
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1273528765",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.696948,
+     45.5539774
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1273528767",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6975591,
+     45.5541305
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1273528771",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6968677,
+     45.5544943
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1289382608",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6949686,
+     45.5562999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1291573918",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": "Esseker centar"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6781412,
+     45.5624122
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1298127855",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6698154,
+     45.5549132
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1298127859",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.670074,
+     45.5555083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1298127870",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6717745,
+     45.5555385
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840937",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6972686,
+     45.5495131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840938",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6960754,
+     45.5496023
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840940",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6972216,
+     45.5497312
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840941",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6971112,
+     45.5502038
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840943",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6997356,
+     45.5509329
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840944",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6992691,
+     45.5511088
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840945",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6959576,
+     45.5508357
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840946",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6963675,
+     45.5506484
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840947",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6940349,
+     45.5498451
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840948",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6952334,
+     45.5498994
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840949",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.696896,
+     45.5509684
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840950",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6970807,
+     45.5512617
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840951",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6969761,
+     45.5512766
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840952",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6951115,
+     45.5519273
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840953",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6954182,
+     45.5522012
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840954",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6957955,
+     45.5525151
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840955",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6991995,
+     45.5524099
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840956",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.698067,
+     45.552318
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840957",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6972471,
+     45.5524788
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840958",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6964162,
+     45.5528571
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840959",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6972621,
+     45.5527074
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840960",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6966988,
+     45.552582
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840961",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6977386,
+     45.5531566
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840962",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6984152,
+     45.5531973
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840963",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6989558,
+     45.5528608
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840964",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6993551,
+     45.5527031
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1302840965",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6997243,
+     45.5530098
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1303160578",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6878582,
+     45.5441008
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1303160581",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6869346,
+     45.5442229
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1303160583",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6879287,
+     45.5424809
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1313553663",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6915356,
+     45.547144
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1313553664",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6915061,
+     45.547465
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1316179445",
+    "name": "Trg Ljudevita Gaja – istok",
+    "kind": "street",
+    "capacity": 23,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6842722,
+     45.5580838
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1316179446",
+    "name": "Trg Ljudevita Gaja – istok",
+    "kind": "street",
+    "capacity": null,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6843809,
+     45.5584759
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1328547145",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "no",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6573621,
+     45.5681724
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1328912909",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6290289,
+     45.5334701
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1331690849",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6562098,
+     45.5655739
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1331690850",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6566118,
+     45.5655085
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1340631645",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6983936,
+     45.55535
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1340631646",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6988891,
+     45.5553689
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1340631647",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6983378,
+     45.5551995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1340631648",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6986006,
+     45.5548651
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1340631649",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6988401,
+     45.5550136
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1352759797",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6740907,
+     45.5565665
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1352759811",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6738813,
+     45.556585
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1352759815",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6736345,
+     45.5564526
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1356447406",
+    "name": "",
+    "kind": "surface",
+    "capacity": 13,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6893055,
+     45.5450269
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1356447407",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "customers",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6896205,
+     45.5452885
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1357072196",
+    "name": "Trg Ljudevita Gaja – sjever",
+    "kind": "street",
+    "capacity": 23,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6836447,
+     45.5593017
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1357072198",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6786382,
+     45.5619311
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1357072202",
+    "name": "",
+    "kind": "street",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6780508,
+     45.5620097
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1374475610",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6644965,
+     45.5502085
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1383593634",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6991742,
+     45.5567744
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1383593635",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6993486,
+     45.5558918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1383593636",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6966709,
+     45.5558071
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1383597239",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6988548,
+     45.5601281
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1383960753",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7011041,
+     45.5561082
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1383960755",
+    "name": "",
+    "kind": "surface",
+    "capacity": 17,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7013407,
+     45.5558886
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1384004925",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7001842,
+     45.5542689
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1384004926",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7006322,
+     45.5543897
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1384004927",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7009031,
+     45.5542432
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1384004928",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7004109,
+     45.5541616
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1384004929",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7012785,
+     45.5542871
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1384004930",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7012066,
+     45.5540632
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1388817250",
+    "name": "",
+    "kind": "surface",
+    "capacity": 6,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7139881,
+     45.5521633
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1388817251",
+    "name": "",
+    "kind": "surface",
+    "capacity": 6,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7135507,
+     45.5522144
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1388817261",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7147508,
+     45.5523387
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1394186873",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6838332,
+     45.5550316
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1395793102",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7056179,
+     45.5587687
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1410911545",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6585689,
+     45.567842
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1411981350",
+    "name": "",
+    "kind": "street",
+    "capacity": 8,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6753598,
+     45.5521273
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1411981353",
+    "name": "",
+    "kind": "street",
+    "capacity": 8,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6749378,
+     45.5520582
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1411981355",
+    "name": "",
+    "kind": "street",
+    "capacity": 6,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6745424,
+     45.5520059
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1421502593",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.738884,
+     45.550242
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1460486246",
+    "name": "",
+    "kind": "surface",
+    "capacity": 5,
+    "access": "yes",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7037437,
+     45.5650615
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1460490747",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7095939,
+     45.5489718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1483526339",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6770765,
+     45.5486644
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1487719756",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6598289,
+     45.5652044
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1497876824",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7279305,
+     45.5531321
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1497876825",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "private",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.7278046,
+     45.5531642
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1530682881",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6536253,
+     45.5552921
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1550209971",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6338823,
+     45.5648683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1561699315",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.636836,
+     45.5642242
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562255410",
+    "name": "",
+    "kind": "street",
+    "capacity": 17,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6761342,
+     45.5599397
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562255411",
+    "name": "",
+    "kind": "street",
+    "capacity": 6,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6760317,
+     45.5594247
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562255412",
+    "name": "",
+    "kind": "street",
+    "capacity": 4,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6762123,
+     45.5594274
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562255416",
+    "name": "",
+    "kind": "street",
+    "capacity": 4,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6762418,
+     45.5595588
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562255417",
+    "name": "",
+    "kind": "street",
+    "capacity": 7,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6762721,
+     45.5597274
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562255420",
+    "name": "",
+    "kind": "street",
+    "capacity": 14,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6766149,
+     45.5583498
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562255424",
+    "name": "",
+    "kind": "street",
+    "capacity": 16,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6775387,
+     45.5583037
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562255425",
+    "name": "",
+    "kind": "street",
+    "capacity": 9,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6781109,
+     45.558275
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562526500",
+    "name": "",
+    "kind": "street",
+    "capacity": 18,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6810053,
+     45.5614598
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562526501",
+    "name": "",
+    "kind": "street",
+    "capacity": 2,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6817767,
+     45.5615343
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562526502",
+    "name": "",
+    "kind": "street",
+    "capacity": 4,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6819818,
+     45.5616124
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562526503",
+    "name": "",
+    "kind": "street",
+    "capacity": 16,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6810767,
+     45.5615072
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562526504",
+    "name": "",
+    "kind": "street",
+    "capacity": 2,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6817124,
+     45.5615844
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562526505",
+    "name": "",
+    "kind": "street",
+    "capacity": 5,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6819424,
+     45.5616655
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562759353",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6893154,
+     45.548406
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562759354",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6888778,
+     45.5480825
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562759355",
+    "name": "",
+    "kind": "surface",
+    "capacity": null,
+    "access": "",
+    "operator": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6888132,
+     45.54769
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562776655",
+    "name": "",
+    "kind": "street",
+    "capacity": 9,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6806964,
+     45.5603966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562776656",
+    "name": "",
+    "kind": "street",
+    "capacity": 7,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6807103,
+     45.5606339
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562776657",
+    "name": "",
+    "kind": "street",
+    "capacity": 12,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6807267,
+     45.5609064
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562776665",
+    "name": "",
+    "kind": "street",
+    "capacity": 7,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6808681,
+     45.5609533
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562776666",
+    "name": "",
+    "kind": "street",
+    "capacity": 8,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6808565,
+     45.5606992
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562776667",
+    "name": "",
+    "kind": "street",
+    "capacity": 9,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6808333,
+     45.5604222
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "lot_id": "osm-w1562785067",
+    "name": "Trg Ljudevita Gaja – sjever",
+    "kind": "street",
+    "capacity": 13,
+    "access": "yes",
+    "operator": "GPP Osijek"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.6829136,
+     45.5592714
+    ]
+   }
+  }
+ ]
+}
