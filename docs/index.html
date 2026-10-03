@@ -1,61 +1,110 @@
-Hrvatski · English below
+<!doctype html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Osijek Parking Zone – Politika privatnosti</title>
+<style>
+  :root { --bg: #fcfcff; --fg: #1b1b1f; --muted: #5d5f66; --line: #e3e4ea; --accent: #1f4e9d; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #16171a; --fg: #e4e2e6; --muted: #a8aab2; --line: #2e3036; --accent: #b0c6ff; } }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 20px 64px; }
+  h1 { font-size: 1.7rem; margin: 0 0 4px; }
+  h2 { font-size: 1.2rem; margin: 32px 0 8px; }
+  p, li { margin: 6px 0; }
+  .meta { color: var(--muted); margin-bottom: 24px; }
+  a { color: var(--accent); }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: .95rem; }
+  th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+  th { color: var(--muted); font-weight: 600; }
+  hr { border: 0; border-top: 1px solid var(--line); margin: 48px 0 24px; }
+  .lang { color: var(--muted); font-size: .9rem; }
+</style>
+</head>
+<body>
+<main>
+<p class="lang">Hrvatski · <a href="#en">English below</a></p>
+<h1>Politika privatnosti</h1>
+<p class="meta">Aplikacija <strong>Osijek Parking Zone</strong> · Autor: Ivan Barišić · Vrijedi od 3. listopada 2026.</p>
 
-Politika privatnosti
-Aplikacija Osijek Parking Zone · Autor: Ivan Barišić · Vrijedi od 27. rujna 2026.
+<p>Osijek Parking Zone je besplatna aplikacija koja prikazuje zone naplate parkiranja u Osijeku i pomaže pri plaćanju parkiranja SMS-om. Aplikacija nema korisničke račune, oglase ni analitiku i ne prikuplja osobne podatke na nekom poslužitelju.</p>
 
-Osijek Parking Zone je besplatna aplikacija koja prikazuje zone naplate parkiranja u Osijeku i pomaže pri plaćanju parkiranja SMS-om. Aplikacija nema korisničke račune, oglase ni analitiku i ne prikuplja osobne podatke na nekom poslužitelju.
+<h2>Koje podatke aplikacija koristi</h2>
+<table>
+  <tr><th>Podatak</th><th>Zašto</th><th>Gdje ostaje</th></tr>
+  <tr><td>Lokacija uređaja (ako je dopustite)</td><td>Prikaz vašeg položaja na karti i prepoznavanje zone naplate u kojoj se nalazite.</td><td>Samo na vašem uređaju. Aplikacija je ne šalje nikamo.</td></tr>
+  <tr><td>Registarska oznaka vozila (ako je upišete)</td><td>Da se upiše u SMS poruku za plaćanje parkiranja.</td><td>Spremljena samo na vašem uređaju. Nalazi se u SMS-u samo ako ga vi pošaljete.</td></tr>
+  <tr><td>Tekst pretrage adrese</td><td>Pronalaženje upisane adrese na karti.</td><td>Šalje se servisu OpenStreetMap Nominatim (vidi niže).</td></tr>
+</table>
 
-Koje podatke aplikacija koristi
-Podatak	Zašto	Gdje ostaje
-Lokacija uređaja (ako je dopustite)	Prikaz vašeg položaja na karti i prepoznavanje zone naplate u kojoj se nalazite.	Samo na vašem uređaju. Aplikacija je ne šalje nikamo.
-Registarska oznaka vozila (ako je upišete)	Da se upiše u SMS poruku za plaćanje parkiranja.	Spremljena samo na vašem uređaju. Nalazi se u SMS-u samo ako ga vi pošaljete.
-Tekst pretrage adrese	Pronalaženje upisane adrese na karti.	Šalje se servisu OpenStreetMap Nominatim (vidi niže).
-Usluge trećih strana
-Karta – OpenFreeMap (openfreemap.org): aplikacija s njihova poslužitelja preuzima dijelove karte za područje koje gledate. Kao i pri svakom internetskom zahtjevu, poslužitelj vidi IP adresu uređaja. Vaša GPS lokacija se ne šalje.
-Pretraga adresa – OpenStreetMap Nominatim (pravila privatnosti OSMF-a): kad pokrenete pretragu adrese, upisani tekst i IP adresa šalju se tom servisu. Pretraga je ograničena na Osijek, a vaša lokacija se ne šalje.
-Plaćanje SMS-om: aplikacija samo otvara vašu aplikaciju za poruke s upisanim brojem zone i registracijom. Poruku šaljete vi. Parkiranje se plaća isključivo GPP-u Osijek, preko vašeg mobilnog operatera i prema njihovim uvjetima. Autor aplikacije ne prima, ne obrađuje i ne vidi vaša plaćanja.
-Navigacija i poveznice: kad odaberete „Navigiraj” ili otvorite izvor podataka, odredište ili poveznica predaju se aplikaciji koju odaberete (npr. Google Maps, Waze ili preglednik), prema njezinim pravilima privatnosti.
-Pohrana i brisanje
-Registarska oznaka i nekoliko postavki (npr. je li već prikazan upit za lokaciju) spremaju se samo na uređaju i ne uključuju se u sigurnosnu kopiju. Registraciju možete promijeniti u aplikaciji. Sve podatke brišete brisanjem podataka aplikacije u postavkama Androida ili deinstalacijom aplikacije.
+<h2>Usluge trećih strana</h2>
+<ul>
+  <li><strong>Karta – OpenFreeMap</strong> (<a href="https://openfreemap.org">openfreemap.org</a>): aplikacija s njihova poslužitelja preuzima dijelove karte za područje koje gledate. Kao i pri svakom internetskom zahtjevu, poslužitelj vidi IP adresu uređaja. Vaša GPS lokacija se ne šalje.</li>
+  <li><strong>Podaci o zonama – GitHub Pages</strong> (<a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">pravila privatnosti GitHuba</a>): pri pokretanju aplikacija s ivanbarisicht.github.io provjerava ima li novijih podataka o zonama i po potrebi ih preuzima. Šalje se samo uobičajeni internetski zahtjev, pa GitHub vidi IP adresu uređaja. Ne šalju se lokacija, pretrage ni registracija.</li>
+  <li><strong>Pretraga adresa – OpenStreetMap Nominatim</strong> (<a href="https://osmfoundation.org/wiki/Privacy_Policy">pravila privatnosti OSMF-a</a>): kad pokrenete pretragu adrese, upisani tekst i IP adresa šalju se tom servisu. Pretraga je ograničena na Osijek, a vaša lokacija se ne šalje.</li>
+  <li><strong>Plaćanje SMS-om:</strong> aplikacija samo otvara vašu aplikaciju za poruke s upisanim brojem zone i registracijom. Poruku šaljete vi. Parkiranje se plaća isključivo GPP-u Osijek, preko vašeg mobilnog operatera i prema njihovim uvjetima. Autor aplikacije ne prima, ne obrađuje i ne vidi vaša plaćanja.</li>
+  <li><strong>Navigacija i poveznice:</strong> kad odaberete „Navigiraj” ili otvorite izvor podataka, odredište ili poveznica predaju se aplikaciji koju odaberete (npr. Google Maps, Waze ili preglednik), prema njezinim pravilima privatnosti.</li>
+</ul>
 
-Dopuštenja
-Lokacija (približna i precizna), samo dok koristite aplikaciju. Aplikacija ne traži pristup lokaciji u pozadini i radi i bez tog dopuštenja.
-Internet, za kartu i pretragu adresa.
-Djeca
-Aplikacija nije namijenjena djeci i svjesno ne prikuplja podatke o djeci.
+<h2>Pohrana i brisanje</h2>
+<p>Registarska oznaka i nekoliko postavki (npr. je li već prikazan upit za lokaciju) spremaju se samo na uređaju i ne uključuju se u sigurnosnu kopiju. Registraciju možete promijeniti u aplikaciji. Sve podatke brišete brisanjem podataka aplikacije u postavkama Androida ili deinstalacijom aplikacije.</p>
 
-Promjene
-Ako se ova politika promijeni, nova verzija bit će objavljena na ovoj stranici s novim datumom.
+<h2>Dopuštenja</h2>
+<ul>
+  <li><strong>Lokacija (približna i precizna)</strong>, samo dok koristite aplikaciju. Aplikacija ne traži pristup lokaciji u pozadini i radi i bez tog dopuštenja.</li>
+  <li><strong>Internet</strong>, za kartu, pretragu adresa i ažuriranje podataka o zonama.</li>
+</ul>
 
-Kontakt
-Ivan Barišić · ivanbarisic2@proton.me
+<h2>Djeca</h2>
+<p>Aplikacija nije namijenjena djeci i svjesno ne prikuplja podatke o djeci.</p>
 
-Privacy Policy
-Osijek Parking Zone app · Author: Ivan Barišić · Effective 27 September 2026
+<h2>Promjene</h2>
+<p>Ako se ova politika promijeni, nova verzija bit će objavljena na ovoj stranici s novim datumom.</p>
 
-Osijek Parking Zone is a free app that shows paid-parking zones in Osijek, Croatia, and helps you pay for parking by SMS. It has no user accounts, ads or analytics, and it does not collect personal data on any server.
+<h2>Kontakt</h2>
+<p>Ivan Barišić · <a href="mailto:ivanbarisic2@proton.me">ivanbarisic2@proton.me</a></p>
 
-Data the app uses
-Data	Purpose	Where it stays
-Device location (if you allow it)	Showing your position on the map and detecting the parking zone you are in.	On your device only. The app does not send it anywhere.
-Vehicle registration plate (if you enter it)	Prefilling the SMS used to pay for parking.	Stored on your device only. It is included in an SMS only if you send it.
-Address search text	Finding the address you typed on the map.	Sent to OpenStreetMap Nominatim (see below).
-Third-party services
-Map – OpenFreeMap (openfreemap.org): map tiles for the area you view are downloaded from their servers, which, like any web server, see your device's IP address. Your GPS location is not sent.
-Address search – OpenStreetMap Nominatim (OSMF privacy policy): when you search for an address, the text you typed and your IP address are sent to this service. Searches are limited to Osijek, and your location is not sent.
-SMS payment: the app only opens your messaging app with the zone number and your plate prefilled. You send the message yourself. Parking is paid exclusively to GPP Osijek, through your mobile operator and under their terms. The app's author does not receive, process or see your payments.
-Navigation and links: when you tap "Navigiraj" or open a data source, the destination or link is handed to the app you choose (e.g. Google Maps, Waze or a browser), under that app's privacy policy.
-Storage and deletion
-Your plate and a few settings (e.g. whether the location prompt was already shown) are stored only on your device and are excluded from backups. You can change the plate in the app. Clearing the app's data in Android settings, or uninstalling the app, deletes everything.
+<hr>
 
-Permissions
-Location (approximate and precise), only while the app is in use. No background location is requested, and the app works without this permission.
-Internet, for the map and address search.
-Children
-The app is not directed at children and does not knowingly collect data about children.
+<h1 id="en">Privacy Policy</h1>
+<p class="meta"><strong>Osijek Parking Zone</strong> app · Author: Ivan Barišić · Effective 3 October 2026</p>
 
-Changes
-If this policy changes, the new version will be published on this page with a new date.
+<p>Osijek Parking Zone is a free app that shows paid-parking zones in Osijek, Croatia, and helps you pay for parking by SMS. It has no user accounts, ads or analytics, and it does not collect personal data on any server.</p>
 
-Contact
-Ivan Barišić · ivanbarisic2@proton.me
+<h2>Data the app uses</h2>
+<table>
+  <tr><th>Data</th><th>Purpose</th><th>Where it stays</th></tr>
+  <tr><td>Device location (if you allow it)</td><td>Showing your position on the map and detecting the parking zone you are in.</td><td>On your device only. The app does not send it anywhere.</td></tr>
+  <tr><td>Vehicle registration plate (if you enter it)</td><td>Prefilling the SMS used to pay for parking.</td><td>Stored on your device only. It is included in an SMS only if you send it.</td></tr>
+  <tr><td>Address search text</td><td>Finding the address you typed on the map.</td><td>Sent to OpenStreetMap Nominatim (see below).</td></tr>
+</table>
+
+<h2>Third-party services</h2>
+<ul>
+  <li><strong>Map – OpenFreeMap</strong> (<a href="https://openfreemap.org">openfreemap.org</a>): map tiles for the area you view are downloaded from their servers, which, like any web server, see your device's IP address. Your GPS location is not sent.</li>
+  <li><strong>Zone data – GitHub Pages</strong> (<a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub privacy statement</a>): when it starts, the app checks ivanbarisicht.github.io for newer zone data and downloads it if there is any. Only an ordinary web request is made, so GitHub sees your device's IP address. No location, searches or plate are sent.</li>
+  <li><strong>Address search – OpenStreetMap Nominatim</strong> (<a href="https://osmfoundation.org/wiki/Privacy_Policy">OSMF privacy policy</a>): when you search for an address, the text you typed and your IP address are sent to this service. Searches are limited to Osijek, and your location is not sent.</li>
+  <li><strong>SMS payment:</strong> the app only opens your messaging app with the zone number and your plate prefilled. You send the message yourself. Parking is paid exclusively to GPP Osijek, through your mobile operator and under their terms. The app's author does not receive, process or see your payments.</li>
+  <li><strong>Navigation and links:</strong> when you tap "Navigiraj" or open a data source, the destination or link is handed to the app you choose (e.g. Google Maps, Waze or a browser), under that app's privacy policy.</li>
+</ul>
+
+<h2>Storage and deletion</h2>
+<p>Your plate and a few settings (e.g. whether the location prompt was already shown) are stored only on your device and are excluded from backups. You can change the plate in the app. Clearing the app's data in Android settings, or uninstalling the app, deletes everything.</p>
+
+<h2>Permissions</h2>
+<ul>
+  <li><strong>Location (approximate and precise)</strong>, only while the app is in use. No background location is requested, and the app works without this permission.</li>
+  <li><strong>Internet</strong>, for the map, address search and zone data updates.</li>
+</ul>
+
+<h2>Children</h2>
+<p>The app is not directed at children and does not knowingly collect data about children.</p>
+
+<h2>Changes</h2>
+<p>If this policy changes, the new version will be published on this page with a new date.</p>
+
+<h2>Contact</h2>
+<p>Ivan Barišić · <a href="mailto:ivanbarisic2@proton.me">ivanbarisic2@proton.me</a></p>
+</main>
+</body>
+</html>
