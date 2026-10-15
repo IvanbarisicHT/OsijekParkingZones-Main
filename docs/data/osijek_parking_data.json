@@ -3,7 +3,7 @@
     "city": "Osijek",
     "country": "Croatia",
     "timezone": "Europe/Zagreb",
-    "verified_on": "2026-09-26",
+    "verified_on": "2026-10-15",
     "warning": "Charging is active only on the listed segments; everything else is FREE per the currently published GPP zones. Rollout is phased (rest of Zone I in October, Zone II in November): update the dataset when GPP publishes new active locations. Geometry must be validated before map rendering.",
     "outside_listed": {
       "status": "FREE",
@@ -36,8 +36,8 @@
       "sunday_holidays": "FREE",
       "sms_number": "708311",
       "current_rollout_status": "ACTIVE",
-      "rollout_note": "All streets and car parks per GPP map \"Sve zone parkiranja\"; treated as active from 2026-10-01.",
-      "source_url": "https://web.gpp-osijek.com/od-21-rujna-pocinje-naplata-parkiranja-u-sredistu-osijeka/"
+      "rollout_note": "First phase from 2026-09-21; rest of zone I from 2026-10-21 (GPP announcement 2026-10-13).",
+      "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/"
     },
     {
       "zone": "2",
@@ -48,8 +48,8 @@
       "sunday_holidays": "FREE",
       "sms_number": "",
       "current_rollout_status": "PLANNED",
-      "rollout_note": "Besplatno do početka naplate; Grad Osijek najavio je naplatu oko 9. studenoga 2026.",
-      "source_url": "https://web.gpp-osijek.com/parking/"
+      "rollout_note": "Besplatno do početka naplate. GPP (13. 10. 2026.): naplata u II. zoni kreće tijekom studenoga; Grad Osijek najavio je oko 9. studenoga 2026.",
+      "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/"
     }
   ],
   "segments": [
@@ -642,6 +642,12 @@
       "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_11_110_2212.html",
       "checked_on": "2026-09-28",
       "authority": "PRIMARY"
+    },
+    {
+      "publisher": "GPP d.o.o. Osijek",
+      "description": "Od 21. listopada počinje naplata parkiranja u ostatku I. zone (13. 10. 2026.)",
+      "url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
+      "checked_on": "2026-10-15"
     }
   ]
 }

@@ -1953,12 +1953,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -2007,12 +2008,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -2071,12 +2073,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -2195,12 +2198,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -2237,12 +2241,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -2279,12 +2284,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -2333,12 +2339,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -2379,12 +2386,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -2465,12 +2473,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -2563,12 +2572,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -2631,12 +2641,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -2673,12 +2684,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -2727,12 +2739,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -2789,12 +2802,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -2847,12 +2861,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -2921,12 +2936,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -2963,12 +2979,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -3029,12 +3046,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -3071,12 +3089,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -3143,12 +3162,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -3201,12 +3221,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -3243,12 +3264,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -3297,12 +3319,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -3343,12 +3366,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -3393,12 +3417,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -3475,12 +3500,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -3653,12 +3679,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -3695,12 +3722,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -3757,12 +3785,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -3799,12 +3828,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -3853,12 +3883,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -3947,12 +3978,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -3989,12 +4021,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -4043,12 +4076,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -4097,12 +4131,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "LineString",
@@ -4139,12 +4174,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
+    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "MultiLineString",
@@ -9677,12 +9713,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 597869419 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 597869419 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -9733,12 +9770,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 597869420 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 597869420 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -9789,12 +9827,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 597869422 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 597869422 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -9845,12 +9884,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 76035978 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 76035978 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -9909,12 +9949,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 76035979 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 76035979 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -9973,12 +10014,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 76035983 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 76035983 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10029,12 +10071,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 76035988 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 76035988 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10085,12 +10128,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 646452472 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 646452472 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10149,12 +10193,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 646452474 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 646452474 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10205,12 +10250,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 1253622025 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 1253622025 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10277,12 +10323,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 555002786 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 555002786 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10349,12 +10396,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 917103420 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 917103420 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10405,12 +10453,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 555575502 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 555575502 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10461,12 +10510,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 30117979 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 30117979 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10537,12 +10587,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 38482548 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 38482548 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10593,12 +10644,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 30117980 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 30117980 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10649,12 +10701,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 74002353 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 74002353 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10717,12 +10770,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 95066332 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 95066332 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10805,12 +10859,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 679845294 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 679845294 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10861,12 +10916,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 1061895530 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 1061895530 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -10949,12 +11005,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 1383597239 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 1383597239 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -11017,12 +11074,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 597878439 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 597878439 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -11073,12 +11131,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 597878441 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 597878441 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -11129,12 +11188,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 597878444 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 597878444 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -11185,12 +11245,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 597878446 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 597878446 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -11241,12 +11302,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 597878442 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 597878442 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -11297,12 +11359,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 75483732 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 75483732 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -11381,12 +11444,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 75394335 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 75394335 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -11437,12 +11501,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 545282178 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 545282178 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -11505,12 +11570,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 76087281 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 76087281 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -11577,12 +11643,13 @@
     "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 555277787 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 555277787 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-15"
    },
    "geometry": {
     "type": "Polygon",
@@ -15059,6 +15126,146 @@
      ]
     ]
    }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "segment_id": "OS-Z1-M068",
+    "name": "Đakovština",
+    "segment_from": "",
+    "segment_to": "",
+    "location_type": "street_segment",
+    "zone": "1",
+    "municipal_status": "PAID",
+    "hourly_price_eur": 1.0,
+    "max_hours_per_day": "",
+    "active_from": "2026-09-30",
+    "currently_active": "YES",
+    "weekday_hours": "07:00-21:00",
+    "saturday_hours": "07:00-15:00",
+    "sunday_holidays": "FREE",
+    "grace_minutes": 15,
+    "sms_number": "708311",
+    "special_rule": "",
+    "geometry_status": "MAPPED",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
+    "source_type": "OFFICIAL",
+    "verified": "YES",
+    "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
+    "geometry_source": "OpenStreetMap API, way 39356775",
+    "geometry_method": "OSM road named \"Đakovština\" (residential) as listed by GPP",
+    "verified_on": "2026-10-15",
+    "geometry_quality": "LOW"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      18.6756508,
+      45.554508
+     ],
+     [
+      18.6756691,
+      45.5545671
+     ],
+     [
+      18.6756889,
+      45.5546135
+     ],
+     [
+      18.6757102,
+      45.5546421
+     ],
+     [
+      18.6757491,
+      45.55468
+     ],
+     [
+      18.6757549,
+      45.5546857
+     ],
+     [
+      18.6757957,
+      45.5547114
+     ],
+     [
+      18.6758435,
+      45.554735
+     ],
+     [
+      18.6758996,
+      45.5547515
+     ],
+     [
+      18.6760066,
+      45.5547761
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "segment_id": "OS-Z1-M069",
+    "name": "Tvrđa – istok",
+    "segment_from": "",
+    "segment_to": "",
+    "location_type": "street_segment",
+    "zone": "1",
+    "municipal_status": "PAID",
+    "hourly_price_eur": 1.0,
+    "max_hours_per_day": "",
+    "active_from": "2026-09-30",
+    "currently_active": "YES",
+    "weekday_hours": "07:00-21:00",
+    "saturday_hours": "07:00-15:00",
+    "sunday_holidays": "FREE",
+    "grace_minutes": 15,
+    "sms_number": "708311",
+    "special_rule": "",
+    "geometry_status": "NOT_MAPPED",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
+    "source_type": "OFFICIAL",
+    "verified": "YES",
+    "notes": "Navedeno u objavi GPP-a 13. 10. 2026.; točan položaj nije objavljen.",
+    "geometry_source": "",
+    "geometry_method": "not mapped: GPP gives no extent",
+    "verified_on": "2026-10-15",
+    "geometry_quality": "NONE"
+   },
+   "geometry": null
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "segment_id": "OS-Z1-M070",
+    "name": "Intrazonska cesta između Ulice S. S. Kranjčevića i Ulice Bartola Kašića",
+    "segment_from": "",
+    "segment_to": "",
+    "location_type": "street_segment",
+    "zone": "1",
+    "municipal_status": "PAID",
+    "hourly_price_eur": 1.0,
+    "max_hours_per_day": "",
+    "active_from": "2026-09-30",
+    "currently_active": "YES",
+    "weekday_hours": "07:00-21:00",
+    "saturday_hours": "07:00-15:00",
+    "sunday_holidays": "FREE",
+    "grace_minutes": 15,
+    "sms_number": "708311",
+    "special_rule": "",
+    "geometry_status": "NOT_MAPPED",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
+    "source_type": "OFFICIAL",
+    "verified": "YES",
+    "notes": "Navedeno u objavi GPP-a 13. 10. 2026.; točan položaj nije objavljen.",
+    "geometry_source": "",
+    "geometry_method": "not mapped: GPP gives no extent",
+    "verified_on": "2026-10-15",
+    "geometry_quality": "NONE"
+   },
+   "geometry": null
   }
  ]
 }
