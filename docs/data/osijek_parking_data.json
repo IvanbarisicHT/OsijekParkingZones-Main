@@ -3,7 +3,7 @@
     "city": "Osijek",
     "country": "Croatia",
     "timezone": "Europe/Zagreb",
-    "verified_on": "2026-10-15",
+    "verified_on": "2026-10-31",
     "warning": "Charging is active only on the listed segments; everything else is FREE per the currently published GPP zones. Rollout is phased (rest of Zone I in October, Zone II in November): update the dataset when GPP publishes new active locations. Geometry must be validated before map rendering.",
     "outside_listed": {
       "status": "FREE",

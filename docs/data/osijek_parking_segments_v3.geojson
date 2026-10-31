@@ -4527,52 +4527,6 @@
   {
    "type": "Feature",
    "properties": {
-    "segment_id": "OS-Z2-M007",
-    "name": "Intrazonska cesta",
-    "segment_from": "",
-    "segment_to": "",
-    "location_type": "street_segment",
-    "zone": "2",
-    "municipal_status": "PAID",
-    "hourly_price_eur": 0.6,
-    "max_hours_per_day": "",
-    "active_from": "2026-11-09",
-    "currently_active": "NO",
-    "weekday_hours": "07:00-21:00",
-    "saturday_hours": "07:00-15:00",
-    "sunday_holidays": "FREE",
-    "grace_minutes": 15,
-    "sms_number": "",
-    "special_rule": "",
-    "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
-    "source_type": "OFFICIAL",
-    "verified": "YES",
-    "notes": "Grad Osijek najavio je naplatu u II. zoni oko 9. studenoga 2026.",
-    "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM road clipped to the stretch coloured on GPP map \"Sve zone parkiranja\" (georeferenced)"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      18.6742821,
-      45.5519243
-     ],
-     [
-      18.6750729,
-      45.5520171
-     ],
-     [
-      18.6755721,
-      45.5521125
-     ]
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "segment_id": "OS-Z2-M008",
     "name": "Istarska ulica",
     "segment_from": "",
@@ -11738,30 +11692,31 @@
   {
    "type": "Feature",
    "properties": {
-    "segment_id": "OS-Z2-M070",
+    "segment_id": "OS-Z1-M071",
     "name": "Parkiralište – Intrazonska cesta",
     "segment_from": "",
     "segment_to": "",
     "location_type": "parking_area",
-    "zone": "2",
+    "zone": "1",
     "municipal_status": "PAID",
-    "hourly_price_eur": 0.6,
+    "hourly_price_eur": 1.0,
     "max_hours_per_day": "",
-    "active_from": "2026-11-09",
-    "currently_active": "NO",
+    "active_from": "2026-10-21",
+    "currently_active": "YES",
     "weekday_hours": "07:00-21:00",
     "saturday_hours": "07:00-15:00",
     "sunday_holidays": "FREE",
     "grace_minutes": 15,
-    "sms_number": "",
+    "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "Grad Osijek najavio je naplatu u II. zoni oko 9. studenoga 2026.",
+    "notes": "GPP 13. 10. 2026.: Intrazonska cesta u I. zoni od 21. 10. 2026. Ranije OS-Z2-M070 (II. zona).",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 1411981350 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 1411981350 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-31"
    },
    "geometry": {
     "type": "Polygon",
@@ -11806,30 +11761,31 @@
   {
    "type": "Feature",
    "properties": {
-    "segment_id": "OS-Z2-M071",
+    "segment_id": "OS-Z1-M072",
     "name": "Parkiralište – Intrazonska cesta",
     "segment_from": "",
     "segment_to": "",
     "location_type": "parking_area",
-    "zone": "2",
+    "zone": "1",
     "municipal_status": "PAID",
-    "hourly_price_eur": 0.6,
+    "hourly_price_eur": 1.0,
     "max_hours_per_day": "",
-    "active_from": "2026-11-09",
-    "currently_active": "NO",
+    "active_from": "2026-10-21",
+    "currently_active": "YES",
     "weekday_hours": "07:00-21:00",
     "saturday_hours": "07:00-15:00",
     "sunday_holidays": "FREE",
     "grace_minutes": 15,
-    "sms_number": "",
+    "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "Grad Osijek najavio je naplatu u II. zoni oko 9. studenoga 2026.",
+    "notes": "GPP 13. 10. 2026.: Intrazonska cesta u I. zoni od 21. 10. 2026. Ranije OS-Z2-M071 (II. zona).",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 1411981353 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 1411981353 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-31"
    },
    "geometry": {
     "type": "Polygon",
@@ -11882,30 +11838,31 @@
   {
    "type": "Feature",
    "properties": {
-    "segment_id": "OS-Z2-M072",
+    "segment_id": "OS-Z1-M073",
     "name": "Parkiralište – Intrazonska cesta",
     "segment_from": "",
     "segment_to": "",
     "location_type": "parking_area",
-    "zone": "2",
+    "zone": "1",
     "municipal_status": "PAID",
-    "hourly_price_eur": 0.6,
+    "hourly_price_eur": 1.0,
     "max_hours_per_day": "",
-    "active_from": "2026-11-09",
-    "currently_active": "NO",
+    "active_from": "2026-10-21",
+    "currently_active": "YES",
     "weekday_hours": "07:00-21:00",
     "saturday_hours": "07:00-15:00",
     "sunday_holidays": "FREE",
     "grace_minutes": 15,
-    "sms_number": "",
+    "sms_number": "708311",
     "special_rule": "",
     "geometry_status": "MAPPED",
-    "source_url": "https://web.gpp-osijek.com/parking/",
+    "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "Grad Osijek najavio je naplatu u II. zoni oko 9. studenoga 2026.",
+    "notes": "GPP 13. 10. 2026.: Intrazonska cesta u I. zoni od 21. 10. 2026. Ranije OS-Z2-M072 (II. zona).",
     "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
-    "geometry_method": "OSM parking area way 1411981355 lying on the zone colour of GPP map \"Sve zone parkiranja\""
+    "geometry_method": "OSM parking area way 1411981355 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
+    "verified_on": "2026-10-31"
    },
    "geometry": {
     "type": "Polygon",
@@ -15210,12 +15167,12 @@
     "name": "Tvrđa – istok",
     "segment_from": "",
     "segment_to": "",
-    "location_type": "street_segment",
+    "location_type": "parking_area",
     "zone": "1",
     "municipal_status": "PAID",
     "hourly_price_eur": 1.0,
     "max_hours_per_day": "",
-    "active_from": "2026-09-30",
+    "active_from": "2026-10-21",
     "currently_active": "YES",
     "weekday_hours": "07:00-21:00",
     "saturday_hours": "07:00-15:00",
@@ -15223,17 +15180,113 @@
     "grace_minutes": 15,
     "sms_number": "708311",
     "special_rule": "",
-    "geometry_status": "NOT_MAPPED",
+    "geometry_status": "MAPPED",
     "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "Navedeno u objavi GPP-a 13. 10. 2026.; točan položaj nije objavljen.",
-    "geometry_source": "",
-    "geometry_method": "not mapped: GPP gives no extent",
-    "verified_on": "2026-10-15",
-    "geometry_quality": "NONE"
+    "notes": "GPP 13. 10. 2026.: u I. zoni od 21. 10. 2026. Opseg prema GPP-ovoj karti zona (listopad 2026.).",
+    "geometry_source": "OpenStreetMap API, ways 1061895530, 1383597239",
+    "geometry_method": "OSM car park \"Tvrđa – istok\" (operator GPP, parking:zone=1), matched to GPP map https://web.gpp-osijek.com/wp-content/uploads/2026/10/ZONE-PARKIRANJA-1-scaled.jpg",
+    "verified_on": "2026-10-31",
+    "geometry_quality": "MEDIUM"
    },
-   "geometry": null
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [
+        18.6978641,
+        45.5598764
+       ],
+       [
+        18.6978189,
+        45.5596478
+       ],
+       [
+        18.6978943,
+        45.5596389
+       ],
+       [
+        18.6979076,
+        45.5596859
+       ],
+       [
+        18.6987066,
+        45.5595162
+       ],
+       [
+        18.698755,
+        45.5595632
+       ],
+       [
+        18.6992601,
+        45.5601473
+       ],
+       [
+        18.6991527,
+        45.5601782
+       ],
+       [
+        18.6991185,
+        45.560119
+       ],
+       [
+        18.699026,
+        45.5600448
+       ],
+       [
+        18.6985569,
+        45.5600893
+       ],
+       [
+        18.6984998,
+        45.5598265
+       ],
+       [
+        18.6978641,
+        45.5598764
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        18.6985569,
+        45.5600893
+       ],
+       [
+        18.6985736,
+        45.5601935
+       ],
+       [
+        18.6988155,
+        45.5601721
+       ],
+       [
+        18.6988264,
+        45.5602115
+       ],
+       [
+        18.6991527,
+        45.5601782
+       ],
+       [
+        18.6991185,
+        45.560119
+       ],
+       [
+        18.699026,
+        45.5600448
+       ],
+       [
+        18.6985569,
+        45.5600893
+       ]
+      ]
+     ]
+    ]
+   }
   },
   {
    "type": "Feature",
@@ -15247,7 +15300,7 @@
     "municipal_status": "PAID",
     "hourly_price_eur": 1.0,
     "max_hours_per_day": "",
-    "active_from": "2026-09-30",
+    "active_from": "2026-10-21",
     "currently_active": "YES",
     "weekday_hours": "07:00-21:00",
     "saturday_hours": "07:00-15:00",
@@ -15255,17 +15308,255 @@
     "grace_minutes": 15,
     "sms_number": "708311",
     "special_rule": "",
-    "geometry_status": "NOT_MAPPED",
+    "geometry_status": "MAPPED",
     "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
     "source_type": "OFFICIAL",
     "verified": "YES",
-    "notes": "Navedeno u objavi GPP-a 13. 10. 2026.; točan položaj nije objavljen.",
-    "geometry_source": "",
-    "geometry_method": "not mapped: GPP gives no extent",
-    "verified_on": "2026-10-15",
-    "geometry_quality": "NONE"
+    "notes": "GPP 13. 10. 2026.: u I. zoni od 21. 10. 2026. Ranije ucrtano kao II. zona (OS-Z2-M007).",
+    "geometry_source": "OpenStreetMap API, ways 1301303174, 1301303178, 1301303202, 1301303179, 1301303177, 1301303183, 40033762, 1411981358, 1411981372, 1411981341, 713454909",
+    "geometry_method": "OSM road named \"Intrazonska cesta\" between Ulica S. S. Kranjčevića and Ulica Bartula Kašića",
+    "verified_on": "2026-10-31",
+    "geometry_quality": "MEDIUM"
    },
-   "geometry": null
+   "geometry": {
+    "type": "MultiLineString",
+    "coordinates": [
+     [
+      [
+       18.671723,
+       45.5518429
+      ],
+      [
+       18.6719605,
+       45.5518236
+      ],
+      [
+       18.6720812,
+       45.5518165
+      ],
+      [
+       18.6722456,
+       45.5518111
+      ]
+     ],
+     [
+      [
+       18.6722456,
+       45.5518111
+      ],
+      [
+       18.6723968,
+       45.5518098
+      ],
+      [
+       18.6725563,
+       45.5518086
+      ],
+      [
+       18.6726713,
+       45.5518098
+      ]
+     ],
+     [
+      [
+       18.6728783,
+       45.5518454
+      ],
+      [
+       18.6728231,
+       45.5518419
+      ],
+      [
+       18.6727868,
+       45.5518367
+      ],
+      [
+       18.672751,
+       45.5518295
+      ],
+      [
+       18.6726713,
+       45.5518098
+      ]
+     ],
+     [
+      [
+       18.6737997,
+       45.5518819
+      ],
+      [
+       18.6737252,
+       45.5518942
+      ],
+      [
+       18.6736375,
+       45.5518945
+      ],
+      [
+       18.6735464,
+       45.5518887
+      ],
+      [
+       18.6734302,
+       45.5518772
+      ],
+      [
+       18.6732123,
+       45.5518595
+      ],
+      [
+       18.6730984,
+       45.5518519
+      ],
+      [
+       18.6730075,
+       45.5518488
+      ],
+      [
+       18.6728783,
+       45.5518454
+      ]
+     ],
+     [
+      [
+       18.6726713,
+       45.5518098
+      ],
+      [
+       18.672744,
+       45.5517916
+      ],
+      [
+       18.6727819,
+       45.551784
+      ],
+      [
+       18.6728179,
+       45.5517826
+      ],
+      [
+       18.6729837,
+       45.5517855
+      ]
+     ],
+     [
+      [
+       18.6729837,
+       45.5517855
+      ],
+      [
+       18.6731052,
+       45.5517909
+      ],
+      [
+       18.6732939,
+       45.5518044
+      ],
+      [
+       18.6734456,
+       45.5518153
+      ],
+      [
+       18.6735951,
+       45.5518314
+      ],
+      [
+       18.6737051,
+       45.5518524
+      ],
+      [
+       18.6737997,
+       45.5518819
+      ]
+     ],
+     [
+      [
+       18.6737997,
+       45.5518819
+      ],
+      [
+       18.6741606,
+       45.5519116
+      ]
+     ],
+     [
+      [
+       18.6741606,
+       45.5519116
+      ],
+      [
+       18.6746062,
+       45.5519581
+      ],
+      [
+       18.6748533,
+       45.5519881
+      ],
+      [
+       18.6750729,
+       45.5520171
+      ],
+      [
+       18.6753646,
+       45.5520687
+      ],
+      [
+       18.6756551,
+       45.55213
+      ],
+      [
+       18.6760558,
+       45.5522297
+      ],
+      [
+       18.6762853,
+       45.5522921
+      ]
+     ],
+     [
+      [
+       18.6762853,
+       45.5522921
+      ],
+      [
+       18.6763845,
+       45.5523175
+      ],
+      [
+       18.6764709,
+       45.5523369
+      ],
+      [
+       18.6766389,
+       45.5523706
+      ]
+     ],
+     [
+      [
+       18.6766389,
+       45.5523706
+      ],
+      [
+       18.6767805,
+       45.5523957
+      ],
+      [
+       18.6769109,
+       45.5524158
+      ]
+     ],
+     [
+      [
+       18.6769109,
+       45.5524158
+      ],
+      [
+       18.6769813,
+       45.5524266
+      ]
+     ]
+    ]
+   }
   }
  ]
 }
