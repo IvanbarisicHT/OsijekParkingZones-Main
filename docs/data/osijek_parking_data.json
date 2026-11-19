@@ -3,7 +3,7 @@
     "city": "Osijek",
     "country": "Croatia",
     "timezone": "Europe/Zagreb",
-    "verified_on": "2026-10-31",
+    "verified_on": "2026-11-19",
     "warning": "Charging is active only on the listed segments; everything else is FREE per the currently published GPP zones. Rollout is phased (rest of Zone I in October, Zone II in November): update the dataset when GPP publishes new active locations. Geometry must be validated before map rendering.",
     "outside_listed": {
       "status": "FREE",
@@ -48,7 +48,7 @@
       "sunday_holidays": "FREE",
       "sms_number": "",
       "current_rollout_status": "PLANNED",
-      "rollout_note": "Besplatno do početka naplate. GPP (13. 10. 2026.): naplata u II. zoni kreće tijekom studenoga; Grad Osijek najavio je oko 9. studenoga 2026.",
+      "rollout_note": "Besplatno do početka naplate. GPP (13. 10. 2026.): naplata u II. zoni kreće tijekom studenoga; točan datum još nije objavljen (provjereno 19. 11. 2026.).",
       "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/"
     }
   ],
