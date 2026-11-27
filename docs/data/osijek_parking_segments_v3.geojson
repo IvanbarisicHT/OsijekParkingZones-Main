@@ -11296,7 +11296,7 @@
       "type": "Feature",
       "properties": {
         "segment_id": "OS-Z1-M063",
-        "name": "Parkiralište – Ulica svetog Leopolda Bogdana Mandića",
+        "name": "Parkiralište – Prolaz Josipa Leovića",
         "segment_from": "",
         "segment_to": "",
         "location_type": "parking_area",
@@ -11316,7 +11316,7 @@
         "source_url": "https://web.gpp-osijek.com/od-21-listopada-pocinje-naplata-parkiranja-u-ostatku-i-zone/",
         "source_type": "OFFICIAL",
         "verified": "YES",
-        "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026.",
+        "notes": "GPP 13. 10. 2026.: ostatak I. zone u naplati od 21. 10. 2026. Naziv ispravljen 27. 11. 2026. prema prijavi korisnika: ulaz je s Prolaza Josipa Leovića (OSM way 555737597), ne s Ulice sv. Leopolda Bogdana Mandića.",
         "geometry_source": "OpenStreetMap (Overpass API) queried 2026-09-30",
         "geometry_method": "OSM parking area way 75483732 lying on the zone colour of GPP map \"Sve zone parkiranja\"",
         "verified_on": "2026-10-15"

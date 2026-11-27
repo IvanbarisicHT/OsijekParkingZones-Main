@@ -1,12 +1,12 @@
 {
   "format": 1,
-  "version": 2026111901,
-  "published": "2026-11-19T13:14:48Z",
+  "version": 2026112701,
+  "published": "2026-11-27T07:18:29Z",
   "license": "ODbL-1.0",
   "files": {
     "osijek_parking_segments_v3.geojson": {
-      "sha256": "c720d8beb442fede7d2b4f59d92d5c540d0d0491ce69f9828c5bfe45db6dd391",
-      "bytes": 422601
+      "sha256": "215ca3723cfdad12718a1864c5c7723746d00aa1563cee002f5a43e241da1cf0",
+      "bytes": 422738
     },
     "osijek_parking_data.json": {
       "sha256": "f54872f61d2f4af18ffdc78b589b761cd04c3c686d84c0ab05a165b86db84f69",
